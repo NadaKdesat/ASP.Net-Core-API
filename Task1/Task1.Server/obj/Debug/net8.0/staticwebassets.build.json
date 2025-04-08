@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "T0sBvM3XI+JtTGPIm1C35+WIK7wQ8ZOvIgKoBu9CMUA=",
+  "Source": "Task1.Server",
+  "BasePath": "_content/Task1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\Task1\\task1.client\\task1.client.esproj",
+      "Version": 2,
+      "Source": "task1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
