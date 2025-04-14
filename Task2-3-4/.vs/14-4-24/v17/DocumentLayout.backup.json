@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\view-category\\view-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\services\\data-servies.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\services\\data-servies.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\idataservices\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\idataservices\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\dataservices\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\dataservices\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\view-category\\view-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\14-4-24.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\14-4-24.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\services\\data-servies.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\services\\data-servies.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\category\\category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B472D9F1-1AEF-49DC-9C3E-8380B276B669}|14-4-24.client\\14-4-24.client.esproj|solutionrelative:14-4-24.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|c:\\users\\orange\\desktop\\asp.net core api\\14-4-25\\14-4-24.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92E26D-D638-4739-ABCD-A2F30DF79D6C}|14-4-24.Server\\14-4-24.Server.csproj|solutionrelative:14-4-24.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T21:24:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "view-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\view-category\\view-category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\view-category\\view-category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T20:26:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "14-4-24.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:53:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataServices.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\IDataServices\\IDataServices.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\IDataServices\\IDataServices.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\IDataServices\\IDataServices.cs",
+              "RelativeToolTip": "14-4-24.Server\\IDataServices\\IDataServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:50:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataServices.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\DataServices\\DataServices.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\DataServices\\DataServices.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\DataServices\\DataServices.cs",
+              "RelativeToolTip": "14-4-24.Server\\DataServices\\DataServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:50:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:28:49.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data-servies.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\Services\\data-servies.service.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\Services\\data-servies.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\Services\\data-servies.service.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\Services\\data-servies.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T07:23:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T13:45:55.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\index.html",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\index.html",
+              "RelativeToolTip": "14-4-24.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T08:23:41.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:11:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Program.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Program.cs",
+              "RelativeToolTip": "14-4-24.Server\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:47:32.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Models\\Category.cs",
+              "RelativeToolTip": "14-4-24.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:05:46.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "view-category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.html",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\view-category\\view-category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\view-category\\view-category.component.html",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\view-category\\view-category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T20:04:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "14-4-24.Server.http",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\14-4-24.Server.http",
+              "RelativeDocumentMoniker": "14-4-24.Server\\14-4-24.Server.http",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\14-4-24.Server.http",
+              "RelativeToolTip": "14-4-24.Server\\14-4-24.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-14T14:04:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "data-servies.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\Services\\data-servies.service.spec.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\Services\\data-servies.service.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\Services\\data-servies.service.spec.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\Services\\data-servies.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T13:50:29.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "category.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.css",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\category\\category.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\category\\category.component.css",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\category\\category.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T13:40:39.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "14-4-24.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "14-4-24.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T07:18:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "14-4-24.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\appsettings.json",
+              "RelativeToolTip": "14-4-24.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T06:47:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "14-4-24.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.Net Core API\\14-4-25\\14-4-24.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "14-4-24.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:46:47.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

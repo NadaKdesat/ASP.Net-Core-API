@@ -1,0 +1,27 @@
+<div class="flex">
+  <h2>All Categories</h2>
+  <button type="button" class="btn btn-primary m-1">Add new category</button>
+</div>
+<table border="1" class="table m-4" style="max-width:1480px">
+  <thead class="table-dark">
+    <tr>
+      <th scope="col">Category Id</th>
+      <th scope="col">Category Name</th>
+      <th scope="col">Category Description</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let category of categories">
+      <td>{{category.categoryId}}</td>
+      <td>{{category.categoryName}}</td>
+      <td>{{category.categoryDescription}}</td>
+      <td>
+        <button type="button" class="btn btn-primary m-1" [routerLink]="['/category', category.categoryId]">View details</button>
+        <button type="button" class="btn btn-warning m-1">Edit</button>
+        <button type="button" class="btn btn-danger m-1" (click)="deleteCategory(category.categoryId)">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+

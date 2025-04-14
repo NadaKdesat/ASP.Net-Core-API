@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\ASP.Net Core API\14-4-24\14-4-24.client\obj\Debug\14-4-24.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\ASP.Net Core API\14-4-25\14-4-24.client\obj\Debug\14-4-24.client.esproj.CoreCompileInputs.cache
